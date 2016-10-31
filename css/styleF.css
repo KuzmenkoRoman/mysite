@@ -1,0 +1,52 @@
+#wrapper {
+  width: 800px;
+  outline: 1px solid #cccccc;
+  padding: 10px;
+  margin: 0 auto;
+
+}
+
+ #header{ 
+height: 77px;
+background-color: #EAC20E;
+margin-bottom: 12px;
+
+ }
+ #sitebar1{ 
+
+background-color: #ECEBEA;
+margin-bottom: 12px;
+width: 150px;
+float: left;
+
+
+}
+ #sitebar2{ 
+
+background-color: #ECEBEA;
+width: 150px;
+float: right;
+margin-bottom: 12px;
+
+}
+
+ #content{ 
+
+background-color: #D5281C;
+width: 480px;
+margin: 0 160px 12px 160px;
+
+ }
+
+ #footer{ 
+height: 77px;
+background-color: #010001;
+margin-bottom: 12px;
+
+
+ }
+ .clear{
+ 	clear: both ;
+ }
+
+
